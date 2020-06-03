@@ -1,0 +1,1 @@
+This file was created to check if i was able to copy the content of a file to another file using pipes. 
